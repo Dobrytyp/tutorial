@@ -120,3 +120,6 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 STATICFILES_DIRS = ['moje_static']
+
+MEDIA_URL = '/media/'
+MEDIA_ROOT = 'moje_media'
